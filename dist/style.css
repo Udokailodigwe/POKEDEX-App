@@ -1,0 +1,19 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+/* Styling the body of pokedex app  */
+
+/* Styling starts here  */
+
+.hidden {
+  display: none;
+}
+
+.loading__message {
+  position: relative;
+  top: 168px;
+}
