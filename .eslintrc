@@ -1,0 +1,18 @@
+{
+   "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module",
+      "ecmaFeatures": {
+         "jsx": true // Allows support of JSX, but use of React plugin is required to support React semantics
+      }
+   },
+"env": {
+   "amd": true,
+   "browser": true,
+   "jquery": true,
+   "node": true,
+   "es6": true // This enables ES6 global variables AND ES6 syntax
+},
+"extends": [
+   "eslint:recommended"
+]
