@@ -25,7 +25,7 @@ Details are displayed through modal within the app.<br>
 </ul>
 <hr>
 <ins>View Project </ins><br>
-You can visit the project via     https://udokailodigwe.github.io/simple-js-app/
+You can visit the project via     https://udokailodigwe.github.io/POKEDEX-App/
 <hr>
 <ins>API used and External Scripts and Source</ins><br>
 The following API loads the data to the app https://pokeapi.co/api/v2/pokemon/?limit=250 <br>
