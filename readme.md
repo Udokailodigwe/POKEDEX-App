@@ -28,8 +28,8 @@ Details are displayed through modal within the app.<br>
 </ul>
 
 ### View Project 
-You can visit the project via  https://udokailodigwe.github.io/simple-js-app/
+You can visit the project via     https://udokailodigwe.github.io/POKEDEX-App/
 
-### External API, Scripts and Sources used
+### External API Scripts and Sources used
 The following API loads the data to the app https://pokeapi.co/api/v2/pokemon/?limit=250 <br>
 Project embedded fetch-polyfill, promise-polyfill and bootstrap and JQuery scripts.
