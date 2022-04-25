@@ -2,7 +2,7 @@
 
 
 ### App description
-This application is used for viewing the list of Pokemons and their detials.
+This application is used for viewing the list of Pokemons and their details.
 
 
 ### Goal of the Users:
